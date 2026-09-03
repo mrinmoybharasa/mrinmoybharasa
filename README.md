@@ -1,91 +1,135 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mrinmoy%20Bharasa&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=45"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Mrinmoy%20Bharasa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Android%20%7C%20MERN&descAlignY=55&descSize=18" width="100%"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+India;Android+%7C+MERN+%7C+React+Native;Turning+Ideas+into+Code+%E2%9A%A1;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+```
+$ whoami
+> Full-Stack Developer | Android | MEARN Stack | India 🇮🇳
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mrinmoybharasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/mrinmoybharasa?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers"/>
-</p>
+$ status
+> Building things, breaking things, fixing things — repeat.
+```
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-```yaml
-name: Mrinmoy Bharasa
-role: Full-Stack Developer
-location: India
-currently_learning: [React Native, React.js]
-ask_me_about: [Android, MEARN Stack, Web Applications]
-contact: mrinmoybharasa@gmail.com
-fun_fact: "I turn ☕ into code and bugs into features."
-```
-
-- 🔭 I'm currently building cool stuff with **React Native & React.js**
-- 🌱 Sharpening my skills across the **MEARN** stack
-- 💬 Ask me about **Android, Web Apps, or Full-Stack Development**
-- ⚡ Fun fact: the best code is the code you *understand six months later*
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mrinmoy-bharasa-801a42374" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mrinmoybharasa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrinmoybharasa&label=Profile+Views&color=6a11cb&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-6a11cb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Currently%20Learning-React%20Native-20c997?style=flat-square"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 What I'm doing right now
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,py,js,ts,html,css,bootstrap,react,nodejs,express,mongodb,androidstudio,figma,git,linux,php,oracle&perline=9" alt="tech stack icons"/>
-</p>
+| | |
+|---|---|
+| 🔭 | Building projects with **React Native** & **React.js** |
+| 🌱 | Leveling up across the **MEARN** stack (MongoDB · Express · React · Node) |
+| 🤖 | Also comfortable in **Android (Java)** native development |
+| 💬 | Happy to talk shop about **Web Apps, Android, or Full-Stack architecture** |
+| 📫 | Reach me at **mrinmoybharasa@gmail.com** |
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech Arsenal
+
+<table>
+<tr><td valign="top" width="50%">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,php"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,figma"/>
+
+</td><td valign="top" width="50%">
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,oracle"/>
+
+**Mobile & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,reactnative,git,linux"/>
+
+</td></tr>
+</table>
+
+---
+
+### 🏗️ Featured Work
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrinmoybharasa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoybharasa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <a href="https://github.com/mrinmoybharasa?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoybharasa&repo=REPLACE_WITH_REPO_1&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/mrinmoybharasa?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinmoybharasa&repo=REPLACE_WITH_REPO_2&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center"><sub>👆 swap <code>REPLACE_WITH_REPO_1/2</code> for your actual pinned repo names to auto-render live cards</sub></p>
+
+---
+
+### 📈 Activity Snake
+
+Add this once to light up a contribution-snake animation across your profile (see setup note below):
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrinmoybharasa/mrinmoybharasa/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<details>
+<summary>⚙️ One-time setup for the snake animation (click to expand)</summary>
+<br/>
+
+1. Go to **Settings → Actions → General** on this profile repo and enable workflow permissions to *Read and write*.
+2. Create `.github/workflows/snake.yml` with the [Platane/snk](https://github.com/Platane/snk) action.
+3. It auto-generates the SVG above from your real contribution graph — no manual updates needed.
+
+</details>
+
+---
+
+### 📊 Stats & Streaks
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrinmoybharasa&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoybharasa&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoybharasa&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinmoybharasa&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinmoybharasa&theme=redical&hide_border=true" width="85%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<details>
+<summary>🎯 <b>2026 goals</b> (click to expand)</summary>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrinmoybharasa&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+- [ ] Ship a full production React Native app end-to-end
+- [ ] Contribute to an open-source MERN project
+- [ ] Get comfortable with TypeScript across the whole stack
+- [ ] Publish a personal project I actually finish 😅
+
+</details>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 🤝 Let's build something
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<a href="https://linkedin.com/in/mrinmoy-bharasa-801a42374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mrinmoybharasa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
-
-**Thanks for stopping by — feel free to connect!** 🚀
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
