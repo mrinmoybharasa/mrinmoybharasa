@@ -1,15 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Mrinmoy%20Bharasa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Android%20%7C%20MERN&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+India;Android+%7C+MERN+%7C+React+Native;Turning+Ideas+into+Code+%E2%9A%A1;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mrinmoybharasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/mrinmoybharasa?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers"/>
-</p>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=230&section=header&text=Mrinmoy%20Bharasa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Android%20%7C%20MERN&descAlignY=56&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Web+%26+Mobile+Applications;Android+%7C+MERN+%7C+React+Native;Turning+Ideas+into+Real+Projects+%E2%9A%A1;Always+Learning.+Always+Building." alt="Typing SVG"/> <br/> <a href="https://github.com/mrinmoybharasa"> <img src="https://komarev.com/ghpvc/?username=mrinmoybharasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </a> <a href="https://github.com/mrinmoybharasa?tab=followers"> <img src="https://img.shields.io/github/followers/mrinmoybharasa?label=Followers&style=for-the-badge&color=6a11cb" alt="GitHub Followers"/> </a> <a href="https://github.com/mrinmoybharasa?tab=repositories"> <img src="https://img.shields.io/badge/Projects-Explore-20c997?style=for-the-badge" alt="Projects"/> </a> </div>
 <div align="center">
 
 ```
